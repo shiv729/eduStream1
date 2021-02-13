@@ -1,1 +1,1 @@
-# eduStream1
+# eduStream
